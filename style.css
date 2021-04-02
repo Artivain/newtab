@@ -1,0 +1,50 @@
+#container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-image: url("bg.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+#clock {
+	text-align: center;
+	font-size: 3em;
+	color: white;
+	margin-bottom: 25px;
+}
+
+#menu {
+	z-index: 10;
+	position: fixed;
+	top: 0;
+	width: 100vw;
+	background-color: transparent !important;
+	text-align: center !important;
+}
+
+#menu-bottom {
+	z-index: 10;
+	position: fixed;
+	bottom: 0;
+	width: 100vw;
+	background-color: transparent !important;
+	text-align: center !important;
+}
+
+.nav-item, .nav-link, .navbar-brand, .navbar-toggler-icon {
+	color: white !important;
+}
+
+.icon {
+	max-height: 40px;
+	max-width: 40px;
+	opacity: 1;
+	transition: 0.3s;
+}
+
+.icon:hover {
+	opacity: 0.5;
+}

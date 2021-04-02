@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #06476d } 
+		.shp1 { fill: #81d742 } 
+	</style>
+	<g >
+		<path class="shp0" d="M250 434L500 277.25L500 223.47L250 380.04L250 434Z" />
+		<path class="shp1" d="M433.06 250L276.28 500L222.86 500L379.18 250L433.06 250Z" />
+		<path class="shp0" d="M275.92 500L119.97 250L65.69 250L222.04 500L275.92 500Z" />
+		<path class="shp0" d="M0.4 277.46L250.21 120.52L250.22 67.07L0 224.01L0.4 277.46Z" />
+		<path class="shp0" d="M433.06 250L276.13 0L222.86 0L379.18 250L433.06 250Z" />
+		<path class="shp1" d="M0 224L250 379.91L250 433.82L0 277.88L0 224Z" />
+		<path class="shp1" d="M250 66.98L500 222.85L500 278.1L250 120.81L250 66.98Z" />
+		<path class="shp1" d="M275.92 0L119.94 250L65.97 250L221.86 0L275.92 0Z" />
+	</g>
+</svg>
