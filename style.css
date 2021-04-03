@@ -47,4 +47,6 @@
 
 .icon:hover {
 	opacity: 0.5;
+.input-group {
+	max-width: 400px;
 }
