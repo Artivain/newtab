@@ -48,3 +48,6 @@
 .icon:hover {
 	opacity: 0.5;
 }
+.input-group {
+	width: 400px;
+}
