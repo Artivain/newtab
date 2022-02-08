@@ -51,3 +51,7 @@
 .input-group {
 	width: 400px;
 }
+
+.gh-link {
+	z-index: 999;
+}
